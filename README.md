@@ -55,7 +55,6 @@ bash scripts/run_all.sh
 | Hulu-Med | Generator | `ZJU-AI4H/Hulu-Med-7B` |
 | MedGemma | Generator | `google/medgemma-4b-it` |
 | Qwen2.5-VL-7B | Audit backbone | `Qwen/Qwen2.5-VL-7B-Instruct` |
-| Llama-3-8B | Meta-adjudicator | `meta-llama/Meta-Llama-3-8B-Instruct` |
 
 ## Datasets
 

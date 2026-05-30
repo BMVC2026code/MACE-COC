@@ -67,9 +67,6 @@ bash scripts/run_all.sh
 
 ```bibtex
 @inproceedings{mace-coc2026,
-  title={Answer-Preserving Multi-Agent Confidence Calibration for Medical Visual Question Answering},
-  author={Anonymous},
-  booktitle={BMVC},
-  year={2026}
+
 }
 ```

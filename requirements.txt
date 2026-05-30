@@ -1,0 +1,7 @@
+torch>=2.0
+transformers>=4.45
+datasets
+Pillow
+qwen-vl-utils
+tqdm
+numpy
